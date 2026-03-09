@@ -28,7 +28,7 @@ El sistema sigue una arquitectura de tres capas desacopladas:
 
 | Componente | Tecnología |
 |---|---|
-| **LLM** | Google Gemini 1.5 Flash |
+| **LLM** | Google Gemini 2.5 Flash |
 | **Orquestador** | Node.js 20+, TypeScript, Dotenv, Axios |
 | **Servidor MCP** | Java 17+, Spring Boot 3.2, Maven, Lombok |
 | **Base de Datos** | H2 (En memoria, inicializada dinámicamente) |
